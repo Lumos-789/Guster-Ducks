@@ -10,13 +10,15 @@ Markdown specs, zero infrastructure. Each file is a spec for a capability — im
 ## Architecture
 
 ```
-paths/          Ducks exchange info through files
+paths/              Ducks exchange info through files
    ↓
-hi-ducks/       How you interact with ducks
+hi-ducks/           How you interact with ducks
    ↓
-manage-ducks/   How you manage ducks
+manage-ducks/       How you manage ducks
    ↓
-duck-skills/    What ducks can do
+duck-skills/        What ducks can do
+  ├── engineering/    Code skills
+  └── desktop-setup/  Desktop vibe skills
 ```
 
 ## Quick Start
@@ -25,7 +27,7 @@ duck-skills/    What ducks can do
 git clone https://github.com/Lumos-789/Guster-Ducks.git
 cd Guster-Ducks
 cat CLAUDE.md          # understand the structure
-ls duck-skills/        # pick your skills
+ls -R duck-skills/    # pick your skills
 ```
 
 `main` branch is specs only. Branch off to add your implementation.
