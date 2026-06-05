@@ -20,8 +20,6 @@ manage-ducks/   How you manage ducks
 duck-skills/    What ducks can do
 ```
 
-Data flows down. Components decouple through `paths/`.
-
 ## Quick Start
 
 ```
