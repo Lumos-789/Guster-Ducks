@@ -10,7 +10,8 @@ You talk to Guster, and Guster manages the ducks. Ducks get things done.
 - `duck-skills/` — What ducks can do.
   - `duck-skills/engineering/` — Code skills.
   - `duck-skills/desktop-setup/` — Desktop vibe skills.
-  - Add your own — whatever ducks need to do.
+
+Add your own folders, skills, paths — whatever ducks need.
 
 ## Spec → Impl
 
