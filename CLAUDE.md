@@ -1,12 +1,12 @@
-# Guster-Duck
+# Guster-Ducks
 
 You talk to Guster, Guster manages the ducks, ducks get things done.
 
 ## Layers
 
 - `paths/` — Agents exchange info through files.
-- `hi-duck/` — How you interact with ducks.
-- `manage-duck/` — How you manage ducks.
+- `hi-ducks/` — How you interact with ducks.
+- `manage-ducks/` — How you manage ducks.
 - `duck-skills/` — What ducks can do.
 
 ## Spec → Impl

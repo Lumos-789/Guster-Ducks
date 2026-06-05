@@ -1,6 +1,6 @@
-# planning（规划）
+# Planning（日程规划）
 
-Create actionable plans per project based on current state and strategy.
+Generate today's todo based on current project state and backlog.
 
 → reads `projects/`, `logs/`, `ideas/` → writes `todo/{date}.md`
 

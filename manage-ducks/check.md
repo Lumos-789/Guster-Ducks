@@ -1,4 +1,4 @@
-# check（整理现状）
+# Check（整理现状）
 
 Read-only snapshot of all project states. Never modifies anything.
 

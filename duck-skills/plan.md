@@ -1,6 +1,6 @@
 # Plan（规划）
 
-Create actionable plans per project based on current state and strategy.
+Write a long-term plan document for a project.
 
 → reads `projects/`, `logs/`, `ideas/` → writes `plans/{project}-plan.md`
 

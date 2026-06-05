@@ -1,4 +1,4 @@
-# wrap-up（收工）
+# Wrap-Up（收工）
 
 Review the day, update project cards, leave a wrap-up report.
 

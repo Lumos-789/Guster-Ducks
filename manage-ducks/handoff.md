@@ -1,4 +1,4 @@
-# handoff（转手）
+# Handoff（转手）
 
 Leave a note for the next session so context isn't lost. Write to the handoff queue.
 
