@@ -6,4 +6,4 @@ Press a global hotkey to open a new terminal window, cd into Guster path, and la
 
 - Any app → hotkey → new terminal window opens at Guster path with CC running
 
-<!-- impl-wanted -->
+<!-- implementation: empty on this branch -->

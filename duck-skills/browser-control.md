@@ -7,4 +7,4 @@ Automate real browser: navigate, click, type, screenshot, scrape.
 - Uses user's real browser with login state preserved
 - Snapshot before acting, screenshot after
 
-<!-- impl-wanted -->
+<!-- implementation: empty on this branch -->

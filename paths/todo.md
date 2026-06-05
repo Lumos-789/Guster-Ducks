@@ -4,4 +4,4 @@ name: todo
 
 Daily todos. Filenames `YYYY-MM-DD.md`. Split into Duck section (auto-executable) and Human section (needs human).
 
-<!-- impl-wanted -->
+<!-- implementation: empty on this branch -->

@@ -4,4 +4,4 @@ name: ideas
 
 Raw ideas. Filenames `{idea-slug}.md`.
 
-<!-- impl-wanted -->
+<!-- implementation: empty on this branch -->

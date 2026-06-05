@@ -4,4 +4,4 @@ name: plans
 
 Long-term plans. Filenames `{project}-plan.md`.
 
-<!-- impl-wanted -->
+<!-- implementation: empty on this branch -->

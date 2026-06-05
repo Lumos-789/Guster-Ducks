@@ -8,4 +8,4 @@ Multi-source search, cross-verify, synthesize structured report.
 - Key claims cited
 - Conclusion first, evidence follows
 
-<!-- impl-wanted -->
+<!-- implementation: empty on this branch -->
