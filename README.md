@@ -29,7 +29,7 @@ cd Guster-Ducks
 claude
 ```
 
-Open in Claude Code, it reads `CLAUDE.md` and starts dispatching ducks.
+Open in Claude Code. Ducks deploy.
 
 ## License
 
