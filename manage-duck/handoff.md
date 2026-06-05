@@ -1,8 +1,8 @@
-# handoff
+# handoff（转手）
 
-Leave a note for the next session so context isn't lost. FIFO queue.
+Leave a note for the next session so context isn't lost. Write to the handoff queue.
 
-→ writes `handoff/YYYYMMDD-HHMMSS-{summary}.md` → picks up oldest on next session start
+→ writes `handoff/YYYYMMDD-HHMMSS-{summary}.md`
 
 ## Implementation
 

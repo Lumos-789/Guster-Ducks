@@ -1,4 +1,4 @@
-# Deep Research
+# Deep Research（深度调研）
 
 Multi-source search, cross-verify, synthesize structured report.
 

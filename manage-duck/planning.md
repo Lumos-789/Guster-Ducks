@@ -1,4 +1,4 @@
-# planning
+# planning（规划）
 
 Create actionable plans per project based on current state and strategy.
 

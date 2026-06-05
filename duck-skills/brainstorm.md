@@ -1,4 +1,4 @@
-# Brainstorm
+# Brainstorm（头脑风暴）
 
 Take a raw idea and expand it: explore angles, challenge assumptions, find what's missing.
 
