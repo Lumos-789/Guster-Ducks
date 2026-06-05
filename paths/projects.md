@@ -1,8 +1,8 @@
----
-name: projects
----
+# Projects
 
-Project status cards. Filenames `{project}.md`, fixed schema.
+Project status cards.
+
+- `{project}.md`, fixed schema
 
 ## Implementation
 

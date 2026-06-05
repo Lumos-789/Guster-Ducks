@@ -1,8 +1,8 @@
----
-name: ideas
----
+# Ideas
 
-Raw ideas. Filenames `{idea-slug}.md`.
+Raw ideas.
+
+- `{idea-slug}.md`
 
 ## Implementation
 

@@ -1,8 +1,8 @@
----
-name: plans
----
+# Plans
 
-Long-term plans. Filenames `{project}-plan.md`.
+Long-term plans.
+
+- `{project}-plan.md`
 
 ## Implementation
 

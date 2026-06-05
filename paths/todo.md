@@ -1,8 +1,9 @@
----
-name: todo
----
+# Todo
 
-Daily todos. Filenames `YYYY-MM-DD.md`. Split into Duck section (auto-executable) and Human section (needs human).
+Daily todos.
+
+- `YYYY-MM-DD.md`
+- Split into Duck section (auto-executable) and Human section (needs human)
 
 ## Implementation
 

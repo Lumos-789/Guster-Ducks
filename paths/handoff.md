@@ -1,8 +1,8 @@
----
-name: handoff
----
+# Handoff
 
-Cross-session handoff queue. FIFO, filenames `YYYYMMDD-HHMMSS-{summary}.md`.
+Cross-session handoff queue. FIFO.
+
+- `YYYYMMDD-HHMMSS-{summary}.md`
 
 ## Implementation
 

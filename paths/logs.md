@@ -1,8 +1,10 @@
----
-name: logs
----
+# Logs
 
-Logs. `daily-YYYY-MM-DD.md` (scratch notes), `status-`/`wrap-up-` (reports).
+Logs and reports.
+
+- `daily-YYYY-MM-DD.md` — scratch notes
+- `status-YYYY-MM-DD.md` — status reports
+- `wrap-up-YYYY-MM-DD.md` — wrap-up reports
 
 ## Implementation
 
