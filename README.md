@@ -29,7 +29,7 @@ cd Guster-Ducks
 claude
 ```
 
-Open the project in Claude Code and let it read `CLAUDE.md` — it will understand the structure and start dispatching ducks.
+Open in Claude Code, it reads `CLAUDE.md` and starts dispatching ducks.
 
 ## License
 
